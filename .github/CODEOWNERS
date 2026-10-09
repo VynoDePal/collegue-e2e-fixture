@@ -1,0 +1,4 @@
+# Propriétaire des chemins qui DÉFINISSENT le contrôle (workflow, propriétaires, pile approuvée). Le ruleset des bases
+# éphémères exige l'approbation du propriétaire pour toute PR qui les modifie ; l'auteur d'une PR ne peut pas approuver la sienne.
+/.github/ @VynoDePal
+/ci/ @VynoDePal

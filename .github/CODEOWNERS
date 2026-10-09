@@ -2,3 +2,5 @@
 # éphémères exige l'approbation du propriétaire pour toute PR qui les modifie ; l'auteur d'une PR ne peut pas approuver la sienne.
 /.github/ @VynoDePal
 /ci/ @VynoDePal
+
+# sonde : modification de test, sans effet fonctionnel

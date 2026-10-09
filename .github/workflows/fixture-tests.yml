@@ -88,3 +88,5 @@ jobs:
                 exit 1
               fi
               /tmp/venv/bin/python -m pytest -q -p no:cacheprovider'
+
+# sonde : modification de test, sans effet fonctionnel
